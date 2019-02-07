@@ -1,1 +1,4 @@
-This is svpat's first git project !
+PROJECT: HTML/CSS
+
+index.html
+style.css
